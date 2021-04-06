@@ -1,0 +1,467 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{92.424333223764904, 176}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "action" : "permission_calc",
+          "frame" : "{{141, 217}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Owner-Read1",
+          "uuid" : "F0BDE499-9A35-48AE-9E98-1A62923E1CB0"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{171, 176}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "action" : "permission_calc",
+          "frame" : "{{141, 217}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Owner-Write2",
+          "uuid" : "F0BDE499-9A35-48AE-9E98-1A62923E1CB0"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{250, 176}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "action" : "permission_calc",
+          "frame" : "{{141, 217}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Owner-Excute3",
+          "uuid" : "F0BDE499-9A35-48AE-9E98-1A62923E1CB0"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{171, 272}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "action" : "permission_calc",
+          "frame" : "{{141, 217}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Group-Write2",
+          "uuid" : "F0BDE499-9A35-48AE-9E98-1A62923E1CB0"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{250, 271}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "action" : "permission_calc",
+          "frame" : "{{141, 217}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Group-Excute3",
+          "uuid" : "F0BDE499-9A35-48AE-9E98-1A62923E1CB0"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{92.424333223764904, 370}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "action" : "permission_calc",
+          "frame" : "{{141, 217}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Other-Read1",
+          "uuid" : "F0BDE499-9A35-48AE-9E98-1A62923E1CB0"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{171, 369}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "action" : "permission_calc",
+          "frame" : "{{141, 217}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Other-Write2",
+          "uuid" : "F0BDE499-9A35-48AE-9E98-1A62923E1CB0"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{250, 369}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "action" : "permission_calc",
+          "frame" : "{{141, 217}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Other-Excute3",
+          "uuid" : "F0BDE499-9A35-48AE-9E98-1A62923E1CB0"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 176}, {78, 31}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "Label1",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "C507E51E-1103-4DA3-8FEC-F8C690B5CFFC",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "オーナー",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 271}, {72, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label2",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "A9B79EE1-AC0D-4C26-AD86-AC2A4B1B439D",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "グループ",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 369}, {72, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label3",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "59C2123E-8677-4C94-8AAA-9C43B735F5D8",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "その他",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{104.4243332237649, 136}, {25, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "C603BB89-652D-4C98-A904-238B94B12283",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "R",
+          "name" : "Read1",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{104.4243332237649, 232}, {25, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "C603BB89-652D-4C98-A904-238B94B12283",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "R",
+          "name" : "Read2",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{92.424333223764904, 272}, {51, 31}}",
+        "class" : "Switch",
+        "attributes" : {
+          "action" : "permission_calc",
+          "frame" : "{{141, 217}, {51, 31}}",
+          "value" : false,
+          "class" : "Switch",
+          "name" : "Group-Read1",
+          "uuid" : "F0BDE499-9A35-48AE-9E98-1A62923E1CB0"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{104.4243332237649, 330}, {25, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "C603BB89-652D-4C98-A904-238B94B12283",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "R",
+          "name" : "Read3",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{186, 136}, {23, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "Write1",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "917BC75C-6C44-439E-803C-E25EB5EF0CE4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "W",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{186, 232}, {23, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "917BC75C-6C44-439E-803C-E25EB5EF0CE4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "W",
+          "name" : "Write2",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{186, 330}, {23, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "917BC75C-6C44-439E-803C-E25EB5EF0CE4",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "W",
+          "name" : "Write3",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{264, 136}, {23, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "Excute1",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "F459C052-9AC7-4D73-AF7A-58A35F06D564",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "X",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{264, 231}, {23, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "F459C052-9AC7-4D73-AF7A-58A35F06D564",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "X",
+          "name" : "Excute2",
+          "font_size" : 18
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{264, 329}, {23, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "F459C052-9AC7-4D73-AF7A-58A35F06D564",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "X",
+          "name" : "Excute3",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{41, 6}, {290, 84}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 100,
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "8E67C053-797C-49BD-82BB-FCE9A19EB8E3",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "TopView",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{41, 89}, {290, 30}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{91, 216}, {150, 32}}",
+          "uuid" : "8E67C053-797C-49BD-82BB-FCE9A19EB8E3",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 40,
+          "name" : "TopView2"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 420}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label4",
+          "frame" : "{{106, 245}, {150, 32}}",
+          "uuid" : "D2EC222B-649F-44AB-8EC5-D65527E525A4",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "R = 読み込み権限",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 445}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label5",
+          "frame" : "{{106, 245}, {150, 32}}",
+          "uuid" : "8F60A588-E8B8-47EB-9EB5-06F209AF7C5A",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "W = 書き込み権限",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 470}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label6",
+          "frame" : "{{106, 245}, {150, 32}}",
+          "uuid" : "46DF98E7-25EB-4E57-937D-A9DA7E6C35E1",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "X = 実行権限",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {361, 522}}",
+    "class" : "View",
+    "attributes" : {
+      "name" : "Permissions",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
