@@ -13,5 +13,5 @@
 
 *X = Executeの略で実行権限を指定します。*
 
-## Requirement
+## 必要なもの
 *Pythonista3*
