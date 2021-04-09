@@ -12,3 +12,6 @@
 *W = Writeの略で書き込みを指定します。*
 
 *X = Executeの略で実行権限を指定します。*
+
+## Requirement
+*Pythonista3*
